@@ -38,3 +38,8 @@ tr {
 .do-nothing td {
   color: var(--do-nothing-color);
 }
+
+#additional-items-to-add {
+  width: 40%;
+  margin: 20px auto;
+}
